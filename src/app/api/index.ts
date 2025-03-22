@@ -1,0 +1,1 @@
+export { fetchJoke } from './api'
